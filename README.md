@@ -8,7 +8,7 @@ and some more info and a picture!
 ## Coffee Time
 ![coffee](coffee.jfif)
 
-and here is some more info and another picture
+and here is some more info and <u>another</u> <ins>picture</ins>
 
 ![lego](legobuilder.PNG)
 
