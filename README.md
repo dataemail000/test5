@@ -10,4 +10,4 @@ and some more info and a picture!
 
 and here is some more info and another picture
 
-![lego](legobuilder.png)
+![lego](legobuilder.PNG)
