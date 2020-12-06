@@ -17,8 +17,13 @@ and here is some more info and <u>another</u> <ins>picture</ins>
 Adding additional changes - but making it a new PR commit 
 
 
+Making some changes 
+=======
 Some additional changes made direct 
+
 
 Adding even more changes 
 
 ### including a header 3
+=======
+
